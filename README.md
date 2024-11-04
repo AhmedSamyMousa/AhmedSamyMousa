@@ -7,14 +7,14 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Marcheder) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marchederahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-samy-5005a3273) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcheder162496) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=for-the-badge&logo=windows&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
-![DirectX 11](https://img.shields.io/badge/DirectX%2011-%230074CB.svg?style=for-the-badge&logo=directx) 
-![DirectX 12](https://img.shields.io/badge/DirectX%2012-%230074CB.svg?style=for-the-badge&logo=directx) 
-![Vulkan](https://img.shields.io/badge/Vulkan-%23A31F34.svg?style=for-the-badge&logo=vulkan&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&border-radius=50px) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&border-radius=50px) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white&border-radius=50px) 
+![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=for-the-badge&logo=windows&logoColor=white&border-radius=50px)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&border-radius=50px) 
+![DirectX 11](https://img.shields.io/badge/DirectX%2011-%230074CB.svg?style=for-the-badge&logo=directx&border-radius=50px) 
+![DirectX 12](https://img.shields.io/badge/DirectX%2012-%230074CB.svg?style=for-the-badge&logo=directx&border-radius=50px) 
+![Vulkan](https://img.shields.io/badge/Vulkan-%23A31F34.svg?style=for-the-badge&logo=vulkan&logoColor=white&border-radius=50px)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedSamyMousa&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
