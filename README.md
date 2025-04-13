@@ -6,12 +6,6 @@
 <h1 align="center">Ahmed Samy Mousa</h1>
 <h3 align="center">Graphics Programming & Engine Development Specialist</h3>
 
-<div align="center">
-  
-[![Visitor Badge](https://visitcount.itsvg.in/api?id=AhmedSamyMousa&icon=2&color=13)](https://visitcount.itsvg.in)
-
-</div>
-
 ## 👨‍💻 About Me
 
 ```cpp
@@ -85,15 +79,6 @@ int main() {
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/Marcheder) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/marcheder162496)
 
-</div>
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/AhmedSamyMousa/Bimo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSamyMousa&repo=Bimo&theme=tokyonight" alt="Bimo Project" />
-  </a>
-  <!-- Add more project cards here as needed -->
 </div>
 
 ## 💭 Daily Dev Quote
