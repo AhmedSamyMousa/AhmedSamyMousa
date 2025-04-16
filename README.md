@@ -123,7 +123,7 @@ int main() {
 ## 🔮 Graphics Specialties
 
 <div align="center">
-  <img src="https://www.google.com/imgres?q=rendering%20pipeline&imgurl=https%3A%2F%2Fvulkan-tutorial.com%2Fimages%2Fvulkan_simplified_pipeline.svg&imgrefurl=https%3A%2F%2Fvulkan-tutorial.com%2FDrawing_a_triangle%2FGraphics_pipeline_basics%2FIntroduction&docid=miyDLVGJam8j5M&tbnid=r7ASp7NVqQKmQM&vet=12ahUKEwjNxfCXid2MAxXCVUEAHXftMEYQM3oECBwQAA..i&w=403&h=643&hcb=2&ved=2ahUKEwjNxfCXid2MAxXCVUEAHXftMEYQM3oECBwQAA" alt="Rendering Pipeline">
+  <img src="https://vulkan-tutorial.com/images/vulkan_simplified_pipeline.svg" alt="Rendering Pipeline">
   <img src="https://progress-bar.dev/90/?title=Shader%20Development&width=230&color=54aeff" alt="Shader Development">
   <img src="https://progress-bar.dev/88/?title=Graphics%20Optimization&width=230&color=54aeff" alt="Graphics Optimization">
 </div>
