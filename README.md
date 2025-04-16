@@ -124,8 +124,7 @@ int main() {
 
 <div align="center">
   <img src="https://vulkan-tutorial.com/images/vulkan_simplified_pipeline.svg" alt="Rendering Pipeline">
-  <img src="https://progress-bar.dev/90/?title=Shader%20Development&width=230&color=54aeff" alt="Shader Development">
-  <img src="https://progress-bar.dev/88/?title=Graphics%20Optimization&width=230&color=54aeff" alt="Graphics Optimization">
+  <img src="https://docs.vulkan.org/tutorial/latest/_images/images/compute_shader_particles.png" alt="Shader Development">
 </div>
 <div align="center">
   <img src="https://progress-bar.dev/85/?title=PBR%20Rendering&width=230&color=54aeff" alt="PBR Rendering">
