@@ -187,9 +187,6 @@ int main() {
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github.com/AhmedSamyMousa/AhmedSamyMousa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
