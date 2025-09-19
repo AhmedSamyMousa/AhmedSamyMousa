@@ -1,80 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:00FFFF&height=220&section=header&text=Ahmed%20Samy%20Mousa&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Graphics%20Programming%20Virtuoso&descAlignY=55&descSize=20" />
-</div>
+# Ahmed Samy 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&weight=900&size=30&duration=4000&pause=2000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=🚀+Rendering+The+Impossible;🎨+Mastering+The+Wireframe;💎+Where+Geometry+Meets+Infinity" alt="Typing SVG" />
-</div>
+**Computer Graphics Engineer** | **Systems Architect** | **Full-Stack Developer**
 
 ---
 
-## 🕸️ **The Arsenal**
+## 🚀 About Me
 
-<div align="center">
+Computer Graphics Engineer with expertise in low-level graphics programming, real-time rendering, and cross-platform development. Currently working on cutting-edge research and development in **The Lab** 🔬 - a classified project pushing the boundaries of interactive graphics and computational systems.
 
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700)
-![DirectX 11](https://img.shields.io/badge/DirectX%2011-111111?style=for-the-badge&logo=microsoft&logoColor=00BFFF)
-![OpenGL](https://img.shields.io/badge/OpenGL-111111?style=for-the-badge&logo=opengl&logoColor=FF69B4)
-![GLSL](https://img.shields.io/badge/GLSL-111111?style=for-the-badge&logo=opengl&logoColor=8A2BE2)
-![Vulkan](https://img.shields.io/badge/Vulkan-111111?style=for-the-badge&logo=vulkan&logoColor=FF004F)
-![HLSL](https://img.shields.io/badge/HLSL-111111?style=for-the-badge&logo=microsoft&logoColor=DA70D6)
-
-</div>
+Passionate about bridging the gap between hardware capabilities and creative expression through optimized code and innovative architectural solutions.
 
 ---
 
-## 🕶️ **Current Mission**
+## 💻 Core Technologies
 
-<div align="center">
+### Graphics Programming & Game Engines
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
 
-### **[ W I R E F R A M E D ]**
-*"Every edge. Every vertex. Every pixel — aligned."*
+### Shading Languages
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<img src="https://progress-bar.dev/87/?scale=100&title=█████████████&width=500&color=00FFFF&suffix=%20IN%20PROGRESS" />
-
-**Status:** *Compiling Geometry...*  
-**ETA:** *When the mesh holds perfection*  
-**Impact:** *Wireframe today, Reality tomorrow*
-
-</div>
-
----
-
-## 🏆 **Performance Metrics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSamyMousa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&icon_color=FFD700&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSamyMousa&theme=radical&hide_border=true&background=0d0d0d&stroke=FFD700&ring=00FFFF&fire=FFD700&currStreakLabel=FFD700" width="48%" />
-</div>
+### Architecture & Paradigms
+![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DoD](https://img.shields.io/badge/Data%20Oriented%20Design-4ECDC4?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-## 💎 **Wireframe Code**
+## 🌐 Full-Stack & Embedded Systems
 
-```cpp
-namespace AhmedSamy {
+### Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
-  class WireframeEngine {
-  private:
-      static constexpr float PERFECTION = 1.0f;
-      static constexpr char* MOTTO = "Every vertex deserves its outline.";
-      
-  public:
-      enum class Module {
-          MESH_CORE,      // Engine for geometric precision
-          SHADER_GRID,    // Wireframe-driven GLSL/HLSL magic
-          PERFORMANCE,    // Stable frames, clean edges
-          FUTURE_RENDER   // [CLASSIFIED]
-      };
+### Embedded & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-      static void Execute() {
-          while (quality < PERFECTION) {
-              ConnectVertices();
-              RefineEdges();
-              ExpandGrid();
-          }
-          RenderWireframe();
-      }
-  };
+### Scripting & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-}
+---
+
+## 🛠️ What I Do
+
+- **Real-Time Rendering**: Developing high-performance graphics applications using modern APIs
+- **Shader Development**: Creating custom GLSL/HLSL shaders for advanced visual effects
+- **Cross-Platform Solutions**: Building applications that run seamlessly across different platforms
+- **Performance Optimization**: Implementing Data-Oriented Design principles for maximum efficiency
+- **Research & Development**: Contributing to experimental graphics technologies in **The Lab**
+- **Hardware Integration**: Bridging software and hardware through embedded systems programming
+
+---
+
+## 🎯 Current Focus
+
+🔬 **The Lab Project** - *[CLASSIFIED]*  
+Working on next-generation graphics research combining:
+- Advanced rendering techniques
+- Real-time computational graphics
+- Hardware-software integration
+- Performance-critical system design
+
+---
+
+## 📈 Technical Approach
+
+- **Performance First**: Every line of code is written with efficiency in mind
+- **Hardware Aware**: Deep understanding of GPU architectures and optimization strategies  
+- **Scalable Design**: Building systems that grow with project requirements
+- **Continuous Learning**: Always exploring the latest in graphics research and industry best practices
+
+---
+
+## 🤝 Let's Connect
+
+Always interested in discussing:
+- Graphics programming challenges
+- Performance optimization techniques
+- Emerging rendering technologies
+- Cross-platform development strategies
+- Hardware-software integration projects
+
+---
+
+*"Turning computational power into visual poetry, one frame at a time."*
