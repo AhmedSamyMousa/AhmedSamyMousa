@@ -9,7 +9,7 @@ I build high-performance graphics applications and explore the intersection of h
 ## Technical Stack
 
 **Graphics & Rendering**
-- C++ | C | OpenGL | DirectX | Vulkan
+- C++ | C | RUST | OpenGL | DirectX | Vulkan
 - GLSL | HLSL shader development
 - Data-Oriented Design & OOP
 
