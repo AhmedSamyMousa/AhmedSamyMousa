@@ -9,13 +9,13 @@ I build high-performance graphics applications and explore the intersection of h
 ## Technical Stack
 
 **Graphics & Rendering**
-- C++ | C | RUST | OpenGL | DirectX | Vulkan
-- GLSL | HLSL shader development
+- C++ | C | RUST | GLSL | HLSL shader development
+- OpenGL | DirectX | Vulkan
 - Data-Oriented Design & OOP
 
 **Full-Stack & Systems**
 - React | Electron
-- Python scripting
+- Python/Lua scripting
 - Arduino | ESP32 embedded systems
 
 ## Focus Areas
