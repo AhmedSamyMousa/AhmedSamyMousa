@@ -1,4 +1,4 @@
-# Ahmed Samy
+# Ahmed
 
 **Computer Graphics Engineer** specializing in real-time rendering, systems architecture, and cross-platform development.
 
