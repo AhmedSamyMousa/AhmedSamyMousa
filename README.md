@@ -1,6 +1,6 @@
 # Ahmed
 
-**Computer Graphics Engineer** specializing in real-time rendering, systems architecture, and cross-platform development.
+**Computer Graphics Engineer & Low-Level Dev** specializing in real-time rendering, systems architecture, and cross-platform development.
 
 ## What I Do
 
