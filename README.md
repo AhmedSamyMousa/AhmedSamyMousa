@@ -30,6 +30,11 @@ I build high-performance graphics applications and explore the intersection of h
 
 I prioritize performance and hardware-aware design while building scalable systems. Every project is an opportunity to push the boundaries of what's computationally possible.
 
+## Projects
+- Vertex a realtime Renderer in Vulkan
+- Touch Quran(https://touchquraan.com/) a website for writing,listening and reading Quran Verses
+- Lab a Dx11 Project Created To Test New techniques
+- MyCarrier an app used to transfer files fast to multiple devices including IOS using the local network   
 ---
 
 *"Turning computational power into visual poetry, one frame at a time."*
