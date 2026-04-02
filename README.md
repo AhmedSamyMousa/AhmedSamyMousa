@@ -9,12 +9,13 @@ I build high-performance graphics applications and explore the intersection of h
 ## Technical Stack
 
 **Graphics & Rendering**
-- C++ | C | RUST | GLSL | HLSL shader development
+- C++ | C | RUST |
+- GLSL | HLSL
 - OpenGL | DirectX | Vulkan
 - Data-Oriented Design & OOP
 
 **Full-Stack & Systems**
-- React | Electron
+- React | Electron | NextJS | Tauri
 - Python/Lua scripting
 - Arduino | ESP32 embedded systems
 
@@ -22,7 +23,8 @@ I build high-performance graphics applications and explore the intersection of h
 
 - Real-time rendering optimization
 - Custom shader development
-- Cross-platform graphics applications
+- Cross-platform computer applications
+- Modern and fast websites
 - Hardware-software integration
 - Performance-critical system design
 
